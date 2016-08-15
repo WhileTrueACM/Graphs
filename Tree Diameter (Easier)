@@ -1,0 +1,5 @@
+take a random Node S.
+get the furthest Node from S which we will call it T.
+get the furthest Node from T which we will call it X.
+
+the diameter  =  is the distance between X   &   T.
